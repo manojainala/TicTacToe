@@ -6,3 +6,11 @@ For UAF CS605 Artificial Intelligence, Spring 2021
 
 Currently rated by pylint at an X/10, because it's impossible for me to not
 optimize a score.
+
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
